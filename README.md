@@ -6,7 +6,6 @@ A simple Tic Tac Toe game built using React. This project allows two players to 
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
@@ -19,9 +18,9 @@ A simple Tic Tac Toe game built using React. This project allows two players to 
 - Option to reset the game and start over.
 - Stylish user interface with X and O icons.
 
-[Screenshot 1](/Tic-Tac-Toe-With-React/tic-tac-toe/src/components/assets/screenshot1.png)
+[Screenshot 1](/workspace/Tic-Tac-Toe-With-React/tic-tac-toe/src/components/assets/screenshot1.png)
 
-[Screenshot 2](/Tic-Tac-Toe-With-React/tic-tac-toe/src/components/assets/screenshot2.png)
+[Screenshot 2](/workspace/Tic-Tac-Toe-With-React/tic-tac-toe/src/components/assets/screenshot2.png)
 
 
 ## Getting Started
