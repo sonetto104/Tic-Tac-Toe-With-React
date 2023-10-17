@@ -20,7 +20,7 @@ A simple Tic Tac Toe game built using React. This project allows two players to 
 
 ![Screenshot 1](tic-tac-toe/src/components/assets/screenshot1.png)
 
-![Screenshot 2]((tic-tac-toe/src/components/assets/screenshot1.png)
+![Screenshot 2](tic-tac-toe/src/components/assets/screenshot1.png)
 
 
 
