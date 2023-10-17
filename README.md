@@ -18,6 +18,9 @@ A simple Tic Tac Toe game built using React. This project allows two players to 
 - Option to reset the game and start over.
 - Stylish user interface with X and O icons.
 
+![Screenshot 1](tic-tac-toe/src/components/assets/screenshot1.png)
+
+![Screenshot 2]((tic-tac-toe/src/components/assets/screenshot1.png)
 
 
 
